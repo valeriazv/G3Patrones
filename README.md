@@ -12,5 +12,11 @@ El reconocimiento de patrones abarca una amplia variedad de aplicaciones en dife
 
 ## Sobre el equipo:
 ### Valeria Zavaleta Jave
+###### valeria.zavaleta@upch.pe
 Estudiante de 8vo ciclo de Ingeniería Biomédica, me interesa especializarme en el área de Señales e Imágenes, particularmente en el procesamiento de imágenes. También me gusta la programación, electrónica, prototipado y el diseño de estructuras para impresión en 3D. Decidí llevar este curso porque quisiera aprender la implementación de técnicas como Machine Learning y redes neuronales para su aplicación en el ámbito de salud.
+
+<p align="center"> 
+<img src="https://i.postimg.cc/90t9n5z1/val.jpg"  width="150" height="200" align="center">
+</p>
+
 ### Diego Salvatierra Guillermo
