@@ -20,3 +20,5 @@ Estudiante de 8vo ciclo de Ingeniería Biomédica, me interesa especializarme en
 </p>
 
 ### Diego Salvatierra Guillermo
+###### diego.salvatierra@upch.pe
+Actualmente tengo 21 años, y soy  estudiante de la carrera de Ingeniería Biomédica en la Pontificia Universidad Católica del Perú (PUCP) y la Universidad Peruana Cayetano Heredia (UPCH). Soy muy aficionado por la programación en MATLAB, Python,  el procesamiento de señales médicas, y el basketball. En este ciclo estaré llevando el curso de Reconocimiento de Patrones, y espero poder aprender más sobre Machine Learning. 
