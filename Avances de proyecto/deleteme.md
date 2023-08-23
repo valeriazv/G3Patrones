@@ -1,1 +1,1 @@
-
+Buenas tardes profesor, como podrá ver en las fechas de creación de los archivos "Challenges", ,"Avance de proyecto", "Proyecto de curso", fueron la semana pasada (dentro del plazo admmitido). Sin embargo, yo, Diego Salvatierra, cometí un error, y en lugar de crear carpetas ,creé archivos.
